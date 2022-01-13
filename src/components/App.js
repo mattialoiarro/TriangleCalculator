@@ -22,7 +22,7 @@ function App() {
             display: "block",
             marginLeft: "auto",
             marginRight: "auto",
-            marginBottom: "1%",
+            marginBottom: "2%",
           }}
           width={"15%"}
           src={Logo}
